@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1409260478 source:c:\users\james\documents\github\martinlander_v2.0\martinlander_v2.0.cpp
+	"martinlander_V2.0.h"
+
+1409261182 c:\users\james\documents\github\martinlander_v2.0\martinlander_v2.0.h
+	<iostream>
+	<fstream>
+	<istream>
+	<cassert>
+	<ctime>
+	<istream>
+	<conio.h>
+	<cstring>
+
+1409266467 source:c:\users\james\documents\github\martinlander_v2.0\martinlandermain_v2.0.cpp
+	<iostream>
+	<fstream>
+	<istream>
+	<cstring>
+	<cassert>
+	<ctime>
+	<istream>
+	<conio.h>
+	<cmath>
+	<cstdlib>
+
